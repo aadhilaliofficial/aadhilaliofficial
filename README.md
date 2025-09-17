@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m studying in Christ college of engineering<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+	🎓 First-year Computer Science Engineering student<br>	•	💻 Interested in app development, web development, and problem-solving<br>	•	🚀 Currently learning the basics of programming and full-stack development<br>	•	🌱 Exploring open-source projects to improve my skills<br>	•	📚 Passionate about technology, innovation, and continuous learning<br>	•	⚡ Fun fact: I enjoy combining creativity with tech to build useful solutions
 
 
 ## 🌐 Socials:
